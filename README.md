@@ -1,2 +1,2 @@
 # Rustdew-Valley
-// Nothing to see here yet, just playing around with macroquad for now.
+// After looking into Bevvy, might change over from Macroquad.
